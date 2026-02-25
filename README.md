@@ -40,3 +40,5 @@ alignment를 위한 결정이었다.
 ---
 
 Consistent progress over perfection.
+
+## What I'm Building
