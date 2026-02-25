@@ -41,4 +41,33 @@ alignment를 위한 결정이었다.
 
 Consistent progress over perfection.
 
+---
+
 ## What I'm Building
+
+- Data Structures from scratch (Python)
+- Implementation-based problem solving
+- Personal Study Archive on Github
+- Backend Developer skill foundation
+
+---
+
+## Projects
+
+### Data Structures Implementation (In progress)
+Building core data structures manually in Python.
+Focusing on understanding time complexity and internal logic.
+
+More coming soon.
+
+---
+
+## Tech Stack
+
+- Python
+- C / C++
+
+Tools
+
+- Git / Github
+- VS Code
