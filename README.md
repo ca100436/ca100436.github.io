@@ -1,6 +1,6 @@
 # Yu Sungyoon
 
-### Computer Engineering Student  
+### Computer Science Student  
 Future Backend Developer
 
 ---
@@ -19,7 +19,7 @@ Future Backend Developer
 
 그 순간부터 고민이 시작됐다.
 
-결국 나는 Computer Engineering으로 전과했다.
+결국 나는 Computer Science로 전과했다.
 
 리셋이었다.  
 GPA를 다시 끌어올려야 했고,  
