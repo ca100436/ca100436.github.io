@@ -99,8 +99,8 @@ More coming soon.
 
 ## 🔗 Links & Evidence
 
-- 🐙 GitHub Profile: https://github.com/ca100436  
-- 📁 CS Study Log: https://github.com/ca100436/cs-study-log  
+- 🐙 GitHub Profile: [ca100436](https://github.com/ca100436)
+- 📁 CS Study Log: [cs-study-log](https://github.com/ca100436/cs-study-log)  
 - 📄 Certificates & Scores: (PDF 링크)  
 - 🚀 Projects Detail: (프로젝트 상세 페이지 링크)
 
