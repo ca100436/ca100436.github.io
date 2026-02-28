@@ -1,47 +1,58 @@
 <h1 align="center">Yu Sungyoon</h1>
 
 <p align="center">
-Backend-Focused Computer Science Student 🚀 <br>
-Consistent progress over perfection.
+  <b>Backend-Focused CS Student</b> · Implementation-Based Learning · Seoul/KR
 </p>
 
 <p align="center">
-  <a href="https://github.com/ca100436/cs-study-log">
-    <img src="https://img.shields.io/badge/CS_Study_Log-View-blue?style=for-the-badge">
+  <a href="https://ca100436.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-ca100436.github.io-2ea043?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://github.com/ca100436">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-ca100436-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ca100436/cs-study-log">
+    <img src="https://img.shields.io/badge/CS_Study_Log-View-0a66c2?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  📍 Computer Science | Backend Focus | Implementation-Based Learning
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+
+<hr>
+
+<h3>⚡ Focus</h3>
+
+<ul>
+  <li>Data Structures from scratch (Python)</li>
+  <li>Implementation-based problem solving</li>
+  <li>Building backend developer fundamentals</li>
+</ul>
+
+<hr>
 
 ---
 
-## 🕒 Timeline of My Life
+## 🧭 Timeline
 
-나는 처음부터 컴퓨터공학을 선택한 사람이 아니다.
-
-처음에는 제약·바이오 계열을 전공했다.  
-안정적인 선택이라고 생각했고, 나름대로 최선을 다했다.
-
-하지만 시간이 지나면서 깨달았다.
-
-열심히 하는 것과  
-잘 맞는 것은 다르다는 것.
-
-그 순간부터 고민이 시작됐다.
-
-결국 나는 Computer Science로 전과했다.
-
-리셋이었다.  
-GPA를 다시 끌어올려야 했고,  
-처음부터 다시 증명해야 했다.
-
-하지만 그 선택은 두려움이 아니라  
-alignment를 위한 결정이었다.
+> I did not start as a Computer Science major.  
+> I began in Bio-Pharmaceutical studies, believing stability was the right path.  
+>  
+> Over time, I realized something important:  
+> Working hard and being aligned are not the same thing.  
+>  
+> I chose to reset.  
+> I transferred to Computer Science.  
+>  
+> It meant rebuilding my GPA.  
+> It meant proving myself again from scratch.  
+>  
+> But that decision was not driven by fear —  
+> It was the moment I chose long-term direction over short-term comfort.
 
 ---
 
