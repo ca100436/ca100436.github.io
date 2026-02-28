@@ -71,3 +71,14 @@ Tools
 
 - Git / Github
 - VS Code
+  
+---
+
+## 🔗 Links & Evidence
+
+- 🐙 GitHub Profile: https://github.com/ca100436  
+- 📁 CS Study Log: https://github.com/ca100436/cs-study-log  
+- 📄 Certificates & Scores: (PDF 링크)  
+- 🚀 Projects Detail: (프로젝트 상세 페이지 링크)
+
+---
