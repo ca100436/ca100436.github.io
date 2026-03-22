@@ -1,8 +1,45 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-user
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 👋 안녕하세요, 유성윤입니다.
+
+컴퓨터공학과에서 **백엔드 개발자**를 목표로 공부하고 있습니다.
+
+📌 현재 목표  
+- 자료구조 / 알고리즘 실력 향상  
+- GitHub 기반 공부 기록  
+- 프로젝트 경험 쌓기  
+
+📌 공부 방향  
+- Python 기반 문제 해결 능력 강화  
+- 데이터베이스 & 백엔드 구조 이해  
+- 실전 프로젝트 중심 성장  
+
+---
+
+## 🚀 성장 기록
+
+이 블로그는 단순 기록이 아니라  
+**"개발자로 성장하는 과정"을 남기는 공간**입니다.
+
+- 공부 기록  
+- 프로젝트 경험  
+- 시행착오 & 느낀 점  
+
+을 꾸준히 쌓아갈 예정입니다.
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- Git / GitHub  
+- VS Code  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ca100436
