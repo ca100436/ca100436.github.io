@@ -1,43 +1,24 @@
-# Chirpy Starter
+---
+layout: page
+title: Group Study
+icon: fas fa-users
+order: 5
+---
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# 💻 협업 스터디를 만들게 된 이유
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+컴퓨터공학과로 전과한 이후, 단순한 개인 공부만으로는 부족하다고 느꼈다.  
+그래서 실제 협업 경험을 쌓기 위해 그룹스터디를 직접 만들게 되었다.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 🎯 목표
+- 자료구조 및 웹프로그래밍 이해
+- 코딩테스트 대비
+- 협업 경험
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 👥 구성원
+- 성윤 (팀장)
+- 승용
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🚀 느낀 점
+스터디를 운영하면서 협업의 중요성을 직접 경험할 수 있었다.  
+단순히 공부하는 것을 넘어서 팀원들과의 소통과 역할 분담이 얼마나 중요한지 느꼈다.
